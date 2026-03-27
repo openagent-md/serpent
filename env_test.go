@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	serpent "github.com/coder/serpent"
+	serpent "github.com/openagent-md/serpent"
 )
 
 func TestFilterNamePrefix(t *testing.T) {

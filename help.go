@@ -18,7 +18,7 @@ import (
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/xerrors"
 
-	"github.com/coder/pretty"
+	"github.com/openagent-md/pretty"
 )
 
 //go:embed help.tpl

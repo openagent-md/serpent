@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	serpent "github.com/coder/serpent"
-	"github.com/coder/serpent/completion"
+	serpent "github.com/openagent-md/serpent"
+	"github.com/openagent-md/serpent/completion"
 	"github.com/stretchr/testify/require"
 )
 

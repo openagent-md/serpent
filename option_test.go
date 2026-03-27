@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	serpent "github.com/coder/serpent"
+	serpent "github.com/openagent-md/serpent"
 )
 
 func TestOptionSet_ParseFlags(t *testing.T) {

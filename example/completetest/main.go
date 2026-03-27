@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/coder/serpent"
-	"github.com/coder/serpent/completion"
+	"github.com/openagent-md/serpent"
+	"github.com/openagent-md/serpent/completion"
 )
 
 // installCommand returns a serpent command that helps

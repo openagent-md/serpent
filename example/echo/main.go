@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/coder/serpent"
+	"github.com/openagent-md/serpent"
 )
 
 func main() {
