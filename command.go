@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"dev.latticeruntime.com/slog/v3"
+	"github.com/openagent-md/slog/v3"
 
 	"github.com/spf13/pflag"
 	"golang.org/x/exp/constraints"

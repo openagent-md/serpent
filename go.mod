@@ -3,13 +3,12 @@ module github.com/openagent-md/serpent
 go 1.21.4
 
 require (
-	dev.latticeruntime.com/slog/v3 v3.0.1-rc1
-	github.com/openagent-md/pretty v0.0.0-20230908205945-e89ba86370e0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-wordwrap v1.0.1
 	github.com/muesli/termenv v0.15.2
 	github.com/natefinch/atomic v1.0.1
+	github.com/openagent-md/pretty v0.0.0-20230908205945-e89ba86370e0
 	github.com/pion/udp v0.1.4
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
@@ -31,6 +30,7 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.15 // indirect
+	github.com/openagent-md/slog/v3 v3.0.0-20260530084309-de33bf70e2e4
 	github.com/pion/transport/v2 v2.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
